@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ADAD913C22B0FDAE007B460A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ADAD913B22B0FDAE007B460A /* README.md */; };
-		ADB0DFFD22AFA6090030352D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DFFC22AFA6090030352D /* AppDelegate.swift */; };
-		ADB0E00122AFA6090030352D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0E00022AFA6090030352D /* ViewController.swift */; };
-		ADB0E00422AFA6090030352D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADB0E00222AFA6090030352D /* Main.storyboard */; };
-		ADB0E00622AFA60E0030352D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADB0E00522AFA60E0030352D /* Assets.xcassets */; };
-		ADB0E00922AFA60E0030352D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADB0E00722AFA60E0030352D /* LaunchScreen.storyboard */; };
-		ADE1FB1422B39F0200DD2BD6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE1FB1322B39F0200DD2BD6 /* SceneDelegate.swift */; };
+		AD0C513722CA22D500AADC4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C513622CA22D500AADC4D /* AppDelegate.swift */; };
+		AD0C513922CA22D500AADC4D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C513822CA22D500AADC4D /* SceneDelegate.swift */; };
+		AD0C513B22CA22D500AADC4D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C513A22CA22D500AADC4D /* ViewController.swift */; };
+		AD0C514022CA22D800AADC4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD0C513F22CA22D800AADC4D /* Assets.xcassets */; };
+		AD0C514322CA22D800AADC4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD0C514122CA22D800AADC4D /* LaunchScreen.storyboard */; };
+		AD0C515922CA248600AADC4D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD0C515822CA248600AADC4D /* Main.storyboard */; };
+		AD0C515B22CA2A7B00AADC4D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD0C515A22CA2A7B00AADC4D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ADAD913B22B0FDAE007B460A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		ADB0DFF922AFA6090030352D /* Dicee-iOS13.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dicee-iOS13.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ADB0DFFC22AFA6090030352D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		ADB0E00022AFA6090030352D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		ADB0E00322AFA6090030352D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		ADB0E00522AFA60E0030352D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ADB0E00822AFA60E0030352D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		ADB0E00A22AFA60E0030352D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ADE1FB1322B39F0200DD2BD6 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		AD0C513322CA22D500AADC4D /* Calculator Layout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Calculator Layout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD0C513622CA22D500AADC4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AD0C513822CA22D500AADC4D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		AD0C513A22CA22D500AADC4D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AD0C513F22CA22D800AADC4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AD0C514222CA22D800AADC4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AD0C514422CA22D800AADC4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD0C515822CA248600AADC4D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		AD0C515A22CA2A7B00AADC4D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		ADB0DFF622AFA6090030352D /* Frameworks */ = {
+		AD0C513022CA22D500AADC4D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ADB0DFF022AFA6090030352D = {
+		AD0C512A22CA22D500AADC4D = {
 			isa = PBXGroup;
 			children = (
-				ADAD913B22B0FDAE007B460A /* README.md */,
-				ADB0DFFB22AFA6090030352D /* Dicee-iOS13 */,
-				ADB0DFFA22AFA6090030352D /* Products */,
+				AD0C515A22CA2A7B00AADC4D /* README.md */,
+				AD0C513522CA22D500AADC4D /* Calculator Layout iOS13 */,
+				AD0C513422CA22D500AADC4D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		ADB0DFFA22AFA6090030352D /* Products */ = {
+		AD0C513422CA22D500AADC4D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ADB0DFF922AFA6090030352D /* Dicee-iOS13.app */,
+				AD0C513322CA22D500AADC4D /* Calculator Layout.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ADB0DFFB22AFA6090030352D /* Dicee-iOS13 */ = {
+		AD0C513522CA22D500AADC4D /* Calculator Layout iOS13 */ = {
 			isa = PBXGroup;
 			children = (
-				ADB0DFFC22AFA6090030352D /* AppDelegate.swift */,
-				ADE1FB1322B39F0200DD2BD6 /* SceneDelegate.swift */,
-				ADB0E00022AFA6090030352D /* ViewController.swift */,
-				ADB0E00222AFA6090030352D /* Main.storyboard */,
-				ADB0E00522AFA60E0030352D /* Assets.xcassets */,
-				ADB0E00722AFA60E0030352D /* LaunchScreen.storyboard */,
-				ADB0E00A22AFA60E0030352D /* Info.plist */,
+				AD0C513622CA22D500AADC4D /* AppDelegate.swift */,
+				AD0C513822CA22D500AADC4D /* SceneDelegate.swift */,
+				AD0C513A22CA22D500AADC4D /* ViewController.swift */,
+				AD0C515822CA248600AADC4D /* Main.storyboard */,
+				AD0C513F22CA22D800AADC4D /* Assets.xcassets */,
+				AD0C514122CA22D800AADC4D /* LaunchScreen.storyboard */,
+				AD0C514422CA22D800AADC4D /* Info.plist */,
 			);
-			path = "Dicee-iOS13";
+			path = "Calculator Layout iOS13";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ADB0DFF822AFA6090030352D /* Dicee-iOS13 */ = {
+		AD0C513222CA22D500AADC4D /* Calculator Layout */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ADB0E00D22AFA60E0030352D /* Build configuration list for PBXNativeTarget "Dicee-iOS13" */;
+			buildConfigurationList = AD0C514722CA22D800AADC4D /* Build configuration list for PBXNativeTarget "Calculator Layout" */;
 			buildPhases = (
-				ADB0DFF522AFA6090030352D /* Sources */,
-				ADB0DFF622AFA6090030352D /* Frameworks */,
-				ADB0DFF722AFA6090030352D /* Resources */,
+				AD0C512F22CA22D500AADC4D /* Sources */,
+				AD0C513022CA22D500AADC4D /* Frameworks */,
+				AD0C513122CA22D500AADC4D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Dicee-iOS13";
-			productName = "Dicee-iOS13";
-			productReference = ADB0DFF922AFA6090030352D /* Dicee-iOS13.app */;
+			name = "Calculator Layout";
+			productName = "Calculator Layout iOS13";
+			productReference = AD0C513322CA22D500AADC4D /* Calculator Layout.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		ADB0DFF122AFA6090030352D /* Project object */ = {
+		AD0C512B22CA22D500AADC4D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1250;
-				ORGANIZATIONNAME = "London App Brewery";
+				LastUpgradeCheck = 1100;
+				ORGANIZATIONNAME = "The App Brewery";
 				TargetAttributes = {
-					ADB0DFF822AFA6090030352D = {
+					AD0C513222CA22D500AADC4D = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = ADB0DFF422AFA6090030352D /* Build configuration list for PBXProject "Dicee-iOS13" */;
+			buildConfigurationList = AD0C512E22CA22D500AADC4D /* Build configuration list for PBXProject "Calculator Layout" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +113,48 @@
 				en,
 				Base,
 			);
-			mainGroup = ADB0DFF022AFA6090030352D;
-			productRefGroup = ADB0DFFA22AFA6090030352D /* Products */;
+			mainGroup = AD0C512A22CA22D500AADC4D;
+			productRefGroup = AD0C513422CA22D500AADC4D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ADB0DFF822AFA6090030352D /* Dicee-iOS13 */,
+				AD0C513222CA22D500AADC4D /* Calculator Layout */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		ADB0DFF722AFA6090030352D /* Resources */ = {
+		AD0C513122CA22D500AADC4D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADB0E00922AFA60E0030352D /* LaunchScreen.storyboard in Resources */,
-				ADB0E00622AFA60E0030352D /* Assets.xcassets in Resources */,
-				ADAD913C22B0FDAE007B460A /* README.md in Resources */,
-				ADB0E00422AFA6090030352D /* Main.storyboard in Resources */,
+				AD0C515922CA248600AADC4D /* Main.storyboard in Resources */,
+				AD0C514322CA22D800AADC4D /* LaunchScreen.storyboard in Resources */,
+				AD0C515B22CA2A7B00AADC4D /* README.md in Resources */,
+				AD0C514022CA22D800AADC4D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		ADB0DFF522AFA6090030352D /* Sources */ = {
+		AD0C512F22CA22D500AADC4D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADB0E00122AFA6090030352D /* ViewController.swift in Sources */,
-				ADB0DFFD22AFA6090030352D /* AppDelegate.swift in Sources */,
-				ADE1FB1422B39F0200DD2BD6 /* SceneDelegate.swift in Sources */,
+				AD0C513B22CA22D500AADC4D /* ViewController.swift in Sources */,
+				AD0C513722CA22D500AADC4D /* AppDelegate.swift in Sources */,
+				AD0C513922CA22D500AADC4D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		ADB0E00222AFA6090030352D /* Main.storyboard */ = {
+		AD0C514122CA22D800AADC4D /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ADB0E00322AFA6090030352D /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		ADB0E00722AFA60E0030352D /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				ADB0E00822AFA60E0030352D /* Base */,
+				AD0C514222CA22D800AADC4D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		ADB0E00B22AFA60E0030352D /* Debug */ = {
+		AD0C514522CA22D800AADC4D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -196,7 +188,6 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -231,7 +222,7 @@
 			};
 			name = Debug;
 		};
-		ADB0E00C22AFA60E0030352D /* Release */ = {
+		AD0C514622CA22D800AADC4D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -257,7 +248,6 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -286,64 +276,64 @@
 			};
 			name = Release;
 		};
-		ADB0E00E22AFA60E0030352D /* Debug */ = {
+		AD0C514822CA22D800AADC4D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 473AAT6556;
-				INFOPLIST_FILE = "Dicee-iOS13/Info.plist";
+				INFOPLIST_FILE = "Calculator Layout iOS13/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.matheuslenke.dicee-ios13";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.matheuslenke.calculator-layout-ios13";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		ADB0E00F22AFA60E0030352D /* Release */ = {
+		AD0C514922CA22D800AADC4D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 473AAT6556;
-				INFOPLIST_FILE = "Dicee-iOS13/Info.plist";
+				INFOPLIST_FILE = "Calculator Layout iOS13/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.matheuslenke.dicee-ios13";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.matheuslenke.calculator-layout-ios13";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ADB0DFF422AFA6090030352D /* Build configuration list for PBXProject "Dicee-iOS13" */ = {
+		AD0C512E22CA22D500AADC4D /* Build configuration list for PBXProject "Calculator Layout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ADB0E00B22AFA60E0030352D /* Debug */,
-				ADB0E00C22AFA60E0030352D /* Release */,
+				AD0C514522CA22D800AADC4D /* Debug */,
+				AD0C514622CA22D800AADC4D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ADB0E00D22AFA60E0030352D /* Build configuration list for PBXNativeTarget "Dicee-iOS13" */ = {
+		AD0C514722CA22D800AADC4D /* Build configuration list for PBXNativeTarget "Calculator Layout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ADB0E00E22AFA60E0030352D /* Debug */,
-				ADB0E00F22AFA60E0030352D /* Release */,
+				AD0C514822CA22D800AADC4D /* Debug */,
+				AD0C514922CA22D800AADC4D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = ADB0DFF122AFA6090030352D /* Project object */;
+	rootObject = AD0C512B22CA22D500AADC4D /* Project object */;
 }
